@@ -1,0 +1,2 @@
+TOOL(cat)
+TOOL(version)
